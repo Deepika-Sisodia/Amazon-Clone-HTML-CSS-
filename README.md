@@ -54,3 +54,36 @@ amazon-clone/
 | Mobile       | ✅        |
 
 ---
+
+What I Learned
+Building responsive eCommerce layouts using only HTML and CSS
+
+Implementing hover effects and border animations
+
+Structuring scalable CSS with semantic HTML
+
+Working with icons via Font Awesome CDN
+
+---
+
+
+✨ Future Improvements
+Add interactive elements with JavaScript (e.g., dropdown menus, cart animation)
+
+Optimize for accessibility and SEO
+
+Improve responsiveness on very small screens
+
+---
+
+
+🖼️ Credits
+Logo and images used are from Amazon and are only for educational purposes.
+
+Inspired by the original Amazon India homepage.
+
+---
+
+
+📜 License
+This project is for educational and personal use only. Commercial use is not allowed.
