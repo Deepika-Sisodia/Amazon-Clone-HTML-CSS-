@@ -23,7 +23,7 @@ A fully responsive **Amazon India front page clone**, built using only **HTML** 
 - 🧑‍💻 No JavaScript — purely static HTML + CSS
 
 ---
-amazon-clone/
+# amazon-clone/
 │
 ├── index.html
 ├── style.css
@@ -55,7 +55,7 @@ amazon-clone/
 
 ---
 
-What I Learned
+## What I Learned
 Building responsive eCommerce layouts using only HTML and CSS
 
 Implementing hover effects and border animations
@@ -67,7 +67,7 @@ Working with icons via Font Awesome CDN
 ---
 
 
-✨ Future Improvements
+## ✨ Future Improvements
 Add interactive elements with JavaScript (e.g., dropdown menus, cart animation)
 
 Optimize for accessibility and SEO
@@ -77,7 +77,7 @@ Improve responsiveness on very small screens
 ---
 
 
-🖼️ Credits
+## 🖼️ Credits
 Logo and images used are from Amazon and are only for educational purposes.
 
 Inspired by the original Amazon India homepage.
@@ -85,5 +85,5 @@ Inspired by the original Amazon India homepage.
 ---
 
 
-📜 License
+## 📜 License
 This project is for educational and personal use only. Commercial use is not allowed.
